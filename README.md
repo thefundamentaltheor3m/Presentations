@@ -1,2 +1,2 @@
 # Presentations
-A repository of Beamers for talks and presentations I've given.
+A repository of slides (and potentially videos) for talks and presentations I've given.
